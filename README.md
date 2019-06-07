@@ -13,9 +13,9 @@ Task 1:
 
 Follow the page oriented approach, write a automation test that checks the following
 scenario: (Page Class: GoogleSearchPages.java, TestClass: VerifyGoogleSearch.java)
-# Go to Google
-# Search for “Touchtunes”
-# Make sure that correct result are returned
+- Go to Google
+- Search for “Touchtunes”
+- Make sure that correct result are returned
 
 Task 2:
 Get all the element http://www.touchtunes.com/about/press/ which contains “href”

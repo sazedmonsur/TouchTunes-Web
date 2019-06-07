@@ -18,10 +18,12 @@ scenario: (Page Class: GoogleSearchPages.java, TestClass: VerifyGoogleSearch.jav
 - Make sure that correct result are returned
 
 Task 2:
+
 Get all the element http://www.touchtunes.com/about/press/ which contains “href”
 attribute and contains “touchtunes”, then output the result to a file (eg. result.log, file
 format is not limit to .log) (Page Class: PressPage.java, TestClass: PressSmokeTests.java)
 
 Task 3:
+
 Check all the link inside result file and check if there is any broken link, if exist, print the
 broken links in the console (Page Class: PressPage.java, TestClass: PressSmokeTests.java)
